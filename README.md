@@ -1,2 +1,2 @@
 # Node_Weather
--A simple weatehr web app incoprating weather API
+-A simple weather web app incoprating weather API
